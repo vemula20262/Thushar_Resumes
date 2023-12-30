@@ -217,16 +217,16 @@ projects:
 
 
 # include must and should for an ECE company 
-  - title: YouTube Clone
-    # subtitle: 'Advisor: <a href="https://www.iiitd.ac.in/richagupta">Prof. Richa Gupta</a>'
-    duration: Mar 2023 - May 2023
-    team_size: 1
-    # links:
-    #   - name: GitHub
-    #     link: https://github.com/pendi1901/Voice-Control-RC-Car
-    tech_stack: HTML, CSS
-    bullets:
-      - Developed a clone of the most-popular video-streaming website Youtube whilst honing my proficiency in front-end technologies.
+  # - title: YouTube Clone
+  #   # subtitle: 'Advisor: <a href="https://www.iiitd.ac.in/richagupta">Prof. Richa Gupta</a>'
+  #   duration: Mar 2023 - May 2023
+  #   team_size: 1
+  #   # links:
+  #   #   - name: GitHub
+  #   #     link: https://github.com/pendi1901/Voice-Control-RC-Car
+  #   tech_stack: HTML, CSS
+  #   bullets:
+  #     - Developed a clone of the most-popular video-streaming website Youtube whilst honing my proficiency in front-end technologies.
       # - Built a realtime formula one(F1) car(1:10) Car powered with really powerful DC motors and a wheelbase of 3.5 inches.
       # - Voice Controlled with a specific set of commands using Arduino and a Bluetooth module.
       # - Design inspiration - Mercedes F1 Car(W12)
