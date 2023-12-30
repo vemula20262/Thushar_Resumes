@@ -1,0 +1,204 @@
+# BIO
+bio:
+  name: Vemula Thushar Reddy
+  roll_number: 2020262
+  email: vemula20262@iiitd.ac.in
+  github:
+    username: vemula20262
+    link: https://github.com/vemula20262
+  linkedin:
+    username: Vemula Thushar Reddy
+    link: https://www.linkedin.com/in/vemula-thushar-reddy-292467231/
+  dob: 13 Jun 2002
+  # website:
+  #   name: pendi.works
+  #   link: https://www.pendi.works
+  last_updated: <strong> 11 Dec 2023</strong
+
+# EDUCATION
+education:
+  - institution: Indraprastha Institute of Information Technology, Delhi
+    degree: B.Tech. ESE
+    duration: Dec 2020 - Dec 2024 (Present)
+    grade: 'CGPA: 7.87*'
+    note: (Till 7th Semester)
+  - institution: Narayana Junior College Madhapur, Hyderabad
+    degree: Telangana State Board of Intermediate Education
+    duration: 2018  - 2020
+    grade: 'Percentage: 92.7%'
+  - institution: Viswabharathi High School, Gudivada ,Andhra Pradesh
+    degree: State Board of Secondary Education
+    duration: 2017 - 2018
+    grade: 'CGPA: 9.7'
+
+
+# SKILLS
+skills:
+  - title: Expertise Area
+    value: Data Structures and Algorithms, Object Oriented Programming(OOPS), Database Management Systems
+  - title: Programming Languages
+    value: 'Python, Java, SQL, MATLAB, R'
+  - title: Tools and Technologies
+    value: Git, Github, MySQL Workbench, HTML, CSS, Matplotlib, Pandas, Numpy, OpenCV.
+  - title: Technical Electives
+    value: Data Structures and Algorithms, Advanced Programming, Database Management And System, Computer Organisation, Convex Optimization, Human-Computer Interaction, Quantitative Biology, Robotics, Computer Architecture
+
+# WORK EXPERIENCE
+work_experience:
+  - title: Undergraduate Student Researcher 
+    subtitle: 'Guide: Dr. Tarini Shankar Ghosh <a href="https://iiitd.ac.in/tarini">Dr. Tarini Shankar Ghosh</a>'
+    duration: May 23 - present
+    team_size: 3
+    tech_stack: Python, R, linux 
+    bullets:
+      - Conducted research on collected datasets and collected nearly 40k protein fasta files.
+      - Utilized dbCAN annotation tool to identify CAZy families in genomes and generated the CAZy matrix using HMMER. 
+      - Actively participated in research through careful data analysis and project management.
+
+  - title: Midas Research Associate 
+    subtitle: 'Guide: Rajiv Ratn Shah <a href="https://www.iiitd.ac.in/rajivratn">Dr. Rajiv Ratn Shah</a>'
+    duration: Aug 2022 - Dec 2023
+    team_size: 4
+    bullets: 
+      - Engaged in the curation and development of datasets for the "IndicNLP" initiative in Telugu. 
+      - Conducted analysis of datasets, integrating valuable website enhancements, including features such as BLEU score, word cloud, word frequency, and IAA score.
+
+
+# PROJECTS
+projects: 
+
+  # - title: Tamil NLP | Research Oriented
+  #   tech_stack: HTML, CSS, JavaScript, Flask, MySQL
+  #   subtitle: 'Guide: <a href="https://www.iiitd.ac.in/rajivratn">Prof. Rajiv Ratn Shah</a>'
+  #   duration: Aug'22 - Dec'22
+  #   team_size: 4
+  #   bullets: 
+  #     - Documented annotation guidelines for the translation and transliteration of Tamil, utilizing various sources.
+  #     - Utilized APIs to connect Sheets and performed data analysis on the translated sentences, calculating metrics such as the BLUE Score, Exact Match score, and others.
+  #     - Created a user-friendly interface for the Tamil NLP portal, incorporating features such as user state and hierarchy management,providing reviewers and annotators with the ability to view and download results in the specified ranges.
+  
+  # - title: Online Retail Store
+  #   subtitle: 'Guide: <a href="">Prof. Mukesh Mohania</a>'
+  #   duration: March'22 - May'22
+  #   team_size: 4
+  #   links:
+  #     - name: GitHub
+  #       link: https://github.com/pendi1901/ORS_Project-1
+  #   bullets:
+  #     - Created a web-based replica of a retail store, utilizing my proficiency in front-end technologies such as HTML, CSS, and JavaScript for a user-friendly interface. 
+  #     - The backend was integrated using the Flask framework and a MYSQL database was employed for efficient data management.
+  #   tech_stack: HTML, CSS, JavaScript, Flask, MySQL
+
+
+#  - title: Assembler and Simulator
+#    subtitle: 'Guide: <a href="https://www.iiitd.ac.in/sdeb">Prof. Sujay Deb</a>'
+#    duration: July’21 - Aug'21
+#    team_size: 3
+#    links:
+#      - name: GitHub
+#        link: https://github.com/alvinjoseph7/Computer-Org-Assgn
+#    tech_stack: Python
+#    bullets:
+#      - Generating Machine Code and performing quite a few basic mathematical operations.
+#      - Mimic the inner working of a Computer System especially the assembly code compiling .
+
+
+  - title: Online Retail Store 
+    tech_stack: MySQL, Python
+    subtitle: 'Advisor: <a href="https://www.iiitd.ac.in/mukesh">Prof. Mukesh Mohania</a>'
+    duration: Jan 2023 - Apr 2023
+    team_size: 2
+    bullets:
+      - Developed a command line interface of a retail store with CRUD functionalities.
+      - Acheived a streamlined working CLI with Flask and MySQL for efficient data management.
+    links: 
+      - name: Github
+        link: https://github.com/vemula20262/ORS_DBMS_PROJECT
+  
+  - title: Path Following Robot 
+    tech_stack: Python
+    subtitle: 'Advisor: <a href="https://iiitd.ac.in/sayan">Prof. Sayan Basu Roy </a>'
+    duration: July 2023 - Dec 2023
+    team_size: 4
+    bullets:
+      - Developed a Python simulation using Pygame for rendering.
+      - Implemented dynamic visibility map and following field for guiding a virtual robot through mazes.
+      - Enabled real-time route updates in response to obstacles and changing visible surroundings.
+    links: 
+      - name: Github
+        link: https://github.com/vemula20262/ORS_DBMS_PROJECT
+
+  - title: Cache cohherence protocols 
+    tech_stack: Python
+    subtitle: 'Advisor: <a href="https://www.iiitd.ac.in/sdeb">Prof. Sujay Deb </a>'
+    duration: July 2023 - Dec 2023
+    team_size: 4
+    bullets:
+      - Developed a multi-core cache coherence system simulation.
+      - Implemented and analyzed a cache coherence protocol to ensure data consistency.
+      - Assessed system behavior, optimizing for performance and scalability.
+    links: 
+      - name: Github
+        link: https://github.com/vemula20262/ORS_DBMS_PROJECT
+
+
+  - title: Snakes & Ladders 
+    tech_stack: JavaFX and Java
+    subtitle: 'Advisor: <a href="https://www.iiitd.ac.in/koteswar">Prof. Koteswar Rao Jerripothula</a>'
+    duration: Jan 2023 - Apr 2023
+    team_size: 2
+    bullets: 
+      - Developed an interface iteration of the popular Board Game - Snakes and Ladders using object-oriented and event-driven programming.
+      - Utilised the Serializable Interface for saving games progress.
+    links:
+      - name: Github
+        link: https://github.com/vemula20262/Snake_and_Ladder_game      
+
+
+# # include for an ML based role 
+# - title: Clutering Algorithms Analysis
+#   subtitle: 'Advisor: <a href="https://www.linkedin.com/in/vikram-goyal-7a684213">Dr. Vikram Goyal</a>'
+#   duration: Aug 2022 - Nov 2022
+#   team_size: 2
+#   tech_stack: Python
+#   links: 
+#     - name: Github
+#       link:
+#   bullets:
+#     - 
+
+
+# POSITIONS OF RESPONSIBILITY
+leadership:
+  - position:  'The Captain and the Coordinator of the college Volleyball Team.'
+    duration: Jun 2022 - Jun 2023
+  - position: 'Member of the Organizing Committee(OC) in Astra(IIITD’s sports fest).'
+    duration: Mar 2023 - Mar 2023
+  - position: 'Member of the Organizing Team in Odyssey(IIITD’s cultural fest)'
+    duration: Jan 2023 - Jan 2023
+  - position: Member of the MIDAS Lab(The Multimodial Digital Media Analysis Lab led by Rajiv Ratn Shah)
+    duration: Aug 2022 - Dec 2022
+
+# AWARDS AND ACHIEVEMENTS
+achievements:
+  # - I am honored to have achieved the distinction of being <strong>Joint 1st in the African Continental Youth Chess Championship</strong> and receiving numerous other accolades and honors. My accomplishments were recognized by the <strong>World Chess Federation (FIDE)</strong> with the prestigious title of <a href="https://ratings.fide.com/profile/10800743"><strong>Fide Master(FM)</strong></a> and a <strong>rating of 1492</strong>. 
+  heading:
+  - <strong> Captained </strong> the IIIT Delhi Volleyball team and making significant contributions to the Team’s performance in campus tournaments.
+  bullets: 
+  - Antaranga - IIITD’s inter-branch sports compettion (2022) 
+  - Astra - IIITD’s sports fest  (2023)
+  - Utkarsh - NSUT’s sports fest (2021)
+  - Rann-Neeti - IIT Mandi’s sports fest(2022)
+
+# achievements:
+#   # - I am honored to have achieved the distinction of being <strong>Joint 1st in the African Continental Youth Chess Championship</strong> and receiving numerous other accolades and honors. My accomplishments were recognized by the <strong>World Chess Federation (FIDE)</strong> with the prestigious title of <a href="https://ratings.fide.com/profile/10800743"><strong>Fide Master(FM)</strong></a> and a <strong>rating of 1492</strong>. 
+#   - Excelled in the highly competitive <strong>African Continental Youth Chess Championship</strong>, securing the title of <strong>Joint 1st</strong> place defeating formidable adversaries; honored with the prestigious <a href="https://ratings.fide.com/profile/10800743"><strong>Fide Master(FM)</strong></a> title and a rating of 1492.
+#   - Led comprehensive coding camps focused on Flutter and <a href="https://gdsc.community.dev/events/details/developer-student-clubs-indraprastha-institute-of-information-technology-delhi-presents-compose-camp-build-your-first-android-app-mini-hack/">Android Development</a>, drawing an attendance of over 300 participants.
+#   - Coordinated and facilitated the annual self-growth chess course at IIITD, attracting 200+ students. This 8-week program, in collaboration with The 65th Square, imparted foundational to intermediate-level chess skills to participants.
+#   # - "<strong> 2nd Place </strong> in <strong> ROYAL Academy, London</strong> Essay Competition."
+#   # - "Hiked <strong>Mt.Kenya</strong> (5199m-2nd Tallest Mountain in Africa)."
+
+# INTERESTS AND HOBBIES
+interests:
+  - 'Playing Sports - <strong>Volleyball, Badminton </strong>'
+  - 'Watching Movies and Travelling'
